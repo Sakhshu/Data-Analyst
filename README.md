@@ -1,51 +1,144 @@
-## Developer Portfolio Landing Page Template
+## 👋 Hello, I'm Sakshi
 
-### Introduction
+**Data Analyst | MIS & Reporting Specialist**
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Detail-oriented professional with practical experience in MIS operations, HR support, reporting, and data analysis. Skilled in transforming raw data into structured insights using Excel and Power BI.
 
-<img src="images/demo.gif?raw=true"/>
+---
 
-### Installation
+## 📌 About Me
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+I am a highly organized and analytical professional with hands-on experience in:
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+- MIS Operations  
+- HR Support & Reporting  
+- Data Management  
+- Payroll Processing  
+- Dashboard Development  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My focus is on improving business decisions through accurate reporting and data visualization.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 🛠 Core Skills
 
-```markdown
-Syntax highlighted code block
+- Data Analysis & Reporting  
+- Advanced Excel  
+- Power BI & Dashboards  
+- Data Cleaning & Validation  
+- MIS Reporting  
+- Database Management  
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## 💼 Work Experience
 
-1. Numbered
-2. List
+### **Telecaller & Data Entry Executive**  
+**CL Group (Trader Planet)**  
+*May 2022 – April 2023*
 
-**Bold** and _Italic_ and `Code` text
+**Key Responsibilities:**
 
-[Link](url) and ![Image](src)
-```
+- Lead Generation & Customer Engagement  
+- Customer Relationship Management  
+- Database Management  
+- Feedback & Reporting  
+- Data Accuracy & Entry  
+- Reporting & Documentation  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Roadmap
+## 🎓 Internship
 
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
+### **MIS Executive – Intern**  
+**Dizital Mantras**  
+*01 June 2025 – 30 September 2025*
 
-### References
+**Key Responsibilities:**
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+- Data Collection & Compilation  
+- Report Generation & Analysis  
+- Coordination & Communication  
+- Learning & Development  
+
+---
+
+## 📊 Technical Skills
+
+- **Microsoft Excel (Advanced)**  
+  - Pivot Tables  
+  - Advanced Formulas  
+  - Lookup Functions  
+  - Data Cleaning  
+
+- **Power BI**  
+  - Data Modeling  
+  - DAX Basics  
+  - Dashboard Creation  
+
+- **Other Tools**  
+  - Google Sheets  
+  - MIS Reporting Systems  
+  - Tally (Basic Exposure)  
+
+---
+
+## 📈 Projects
+
+### **Business Reporting & Analysis**
+
+Developed structured reports and dashboards focusing on:
+
+- Performance Tracking  
+- Data Consolidation  
+- Trend Analysis  
+- Operational Reporting  
+
+🔗 **Project Work:**  
+[View Projects](https://drive.google.com/drive/folders/141x-y7lE_EUQC9nvQ6iH-xtdUCqI)
+
+---
+
+## 🎓 Education
+
+- **Master of Arts (MA)** – Pursuing  
+- **Bachelor of Arts (BA)** – Bareilly College  
+- **Intermediate (UP Board)**  
+- **High School (UP Board)**  
+
+---
+
+## 📜 Certifications & Training
+
+- Tally Prime  
+- Advanced Excel  
+- MIS Training  
+- Data & Reporting Skills  
+
+---
+
+## 🤝 Soft Skills
+
+- Strong Communication Skills  
+- Attention to Detail  
+- Team Collaboration  
+- Quick Learner  
+- Professional Work Ethic  
+
+---
+
+## 📫 Contact
+
+📧 Email: sakshiprajput98346@gmail.com  
+📍 Location: Sanjay Nagar, Bareilly – 243006  
+📱 Phone: 9870709612  
+
+🔗 LinkedIn: *(www.linkedin.com/in/misssakshi)*  
+🔗 GitHub: *(Sakshi Rajput)*  
+
+---
+
+## ⭐ References
+
+Available upon request.
+
